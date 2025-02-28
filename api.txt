@@ -1,0 +1,1 @@
+https://api.aladhan.com/v1/timingsByAddress/21-01-2025?address=cairo,EGYPT&method=8&tune=2,3,4,5,2,3,4,5,-3
